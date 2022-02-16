@@ -1,0 +1,15 @@
+.canvas-wrapper {
+    max-width: 700px;
+    max-height: 500px;
+    padding: 40px;
+    margin: 100px auto;
+    background-color: #E5E5E5;
+}
+
+#canvas-plot {
+    padding: 40px;
+    box-sizing: border-box;
+    
+    border-left: 1px solid black;
+    border-bottom: 1px solid black;
+}
